@@ -1,0 +1,19 @@
+{
+  "name": "gitbook-plugin-gittalk",
+  "version": "0.0.1",
+  "description": "A gitbook plugin for gittalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "keywords": ["gitbook", "gitbook-plugin", "gittalk"],
+  "engines": {
+    "gitbook": ">=2.4.3"
+  },
+  "author": "halapro.liu",
+  "license": "ISC",
+  "dependencies": {
+    "gitalk": "^1.5.0"
+  },
+  "devDependencies": {}
+}
